@@ -1,0 +1,8 @@
+#container {
+  width: 650px;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  @include media(tablet) {
+      width: 90%;
+  };
+}

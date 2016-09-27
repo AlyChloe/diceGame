@@ -1,0 +1,17 @@
+#button-container {
+  padding-top: 40px;
+
+  #button {
+    outline: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 17px 35px;
+    border-radius: 10px;
+    background: #074073;
+    color: #ededed;
+    border: #ededed solid 5px;
+  }
+}
